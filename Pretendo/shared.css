@@ -399,12 +399,6 @@ div.basiccontextmenu_contextMenuContents_TBSbv {
 .gamepadhome_TabbedContent_cE1Sa {
   background: var(--bg-color) !important;
 }
-.gamepadhomerecentgames_RecentGamesBackgroundFadeGradient_1ksIq {
-  display: none !important;
-}
-.gamepadhomerecentgames_RecentGamesBackgroundContainer_QNkOt > * {
-	display: none;
-}
 
 /* Remove Glow */
 

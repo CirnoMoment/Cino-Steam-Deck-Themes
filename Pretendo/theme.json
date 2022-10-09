@@ -1,24 +1,31 @@
 {
   "name": "Pretendo",
-  "description": "This theme is based off of the Nintendo Network replacement Pretendo Network, which is on Wii U, 3DS, and PC via Cemu. If you have any suggestions or issues feel free to DM. Created using EMERALD#0874 Round and Obsidian theme and Dutchsnake's Chiaki Nanami theme.",
+  "description": "This theme is based off of the Nintendo Network replacement Pretendo Network, which is on Wii U, 3DS, and PC via Cemu. If you have any suggestions or issues feel free to DM. Created using EMERALD#0874 Obsidian and Dutchsnake's Chiaki Nanami theme.",
   "author": "Cirno Moment#2022",
   "target": "System-Wide",
-  "version": "v0.1",
+  "version": "v0.2",
   "manifest_version": 2,
   "inject": {
-    "shared.css": ["SP", "MainMenu", "QuickAccess"],
-    "image.css": ["SP"],
-    "5px.css": ["SP", "MainMenu", "QuickAccess"],
-    "round-outline.css": ["SP", "MainMenu", "QuickAccess"]
+    "shared.css": ["SP", "MainMenu", "QuickAccess"]
   },
   "patches": {
-    "No Friends Bar": {
+    "Pretendo Styled BG": {
       "default": "Yes",
       "type": "checkbox",
       "values": {
         "No": {},
-        "Yes": { "no-friends.css": ["SP", "MainMenu", "QuickAccess"] }
+        "Yes": { "image.css": ["SP", "MainMenu", "QuickAccess"] }
       }
     }
+  },
+  "dependencies": {
+    "Switch Like Home": {
+      "No Friends": "Yes"
+    },
+    "Round": {
+      "Intensity": {},
+      "Outlines": {}
+    },
+    "No Home Edge Fade": {}
   }
 }

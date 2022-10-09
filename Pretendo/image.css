@@ -10,3 +10,9 @@
     background-size: cover;
     opacity: 0.5;
 }
+.gamepadhomerecentgames_RecentGamesBackgroundFadeGradient_1ksIq {
+    display: none !important;
+  }
+  .gamepadhomerecentgames_RecentGamesBackgroundContainer_QNkOt > * {
+      display: none;
+  }
