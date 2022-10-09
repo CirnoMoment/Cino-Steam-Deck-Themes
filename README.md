@@ -1,4 +1,4 @@
-# Cino-Steam-Deck-Themes
+# Cirno-Steam-Deck-Themes
 This is my official Steam Deck Themes for https://github.com/suchmememanyskill/SDH-CssLoader.
 
 All of these themes you see here can be accessed within the https://github.com/suchmememanyskill/CssLoader-ThemeDb database.
