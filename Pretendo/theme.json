@@ -4,7 +4,7 @@
   "author": "Cirno Moment#2022",
   "target": "System-Wide",
   "version": "v0.2",
-  "manifest_version": 3,
+  "manifest_version": 2,
   "inject": {
     "shared.css": ["SP", "MainMenu", "QuickAccess"]
   },
