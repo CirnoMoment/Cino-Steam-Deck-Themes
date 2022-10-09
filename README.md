@@ -7,4 +7,4 @@ All of these themes you see here can be accessed within the https://github.com/s
 Search it up doofus.
 
 # Credits
-I stole this code from EMERALD's Obsidian and Round, suchmememanykill's Switch-Like Home, and Dutchsnake's Chiaki Nanami Theme. I am what the cool kids call a romanian.
+I have created the code from EMERALD's Obsidian and Round, and Dutchsnake's Chiaki Nanami Theme.
