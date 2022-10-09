@@ -1,11 +1,11 @@
 :root {
-	--pretendo-static-background: url("https://i.imgur.com/ToZwgpZ.png");
+	--static-background: url("https://i.imgur.com/ToZwgpZ.png");
 }
 /* Background Image */
 .gamepadhomerecentgames_RecentGamesBackgroundContainer_QNkOt {
 	position: absolute;
     top: 0;
-    background-image: var(--pretendo-static-background);
+    background-image: var(--static-background);
     background-repeat: no-repeat;
     background-size: cover;
     opacity: 0.5;
